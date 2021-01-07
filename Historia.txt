@@ -1,0 +1,7 @@
+
+
+
+ESTE ES mi documento de prueba para practicar con Git 
+
+
+Soy Alejandro valderrma y tengo 19 años soy de colombia y desarrollo software 
